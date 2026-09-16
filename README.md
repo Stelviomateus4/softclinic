@@ -1,278 +1,320 @@
-# Hi 👋, I'm Milton Reginaldo Manjate
+# SoftClinic 🏥
 
-🚀 **Software Developer | Full Stack Developer | Systems & Network**
-🇲🇿 **Mozambique**
+### An All-in-One Clinic & Laboratory Management System
 
-I'm a Software Developer with a background in **Computer Systems and Networks**, focused on building **web applications, REST APIs, mobile applications, databases, and network solutions**.
+Manage patients, appointments, invoices, OPD sales, lab tests, packages, staff, and printable medical reports — SoftClinic brings clinic and diagnostic laboratory operations into one Laravel application.
 
-I enjoy solving real-world problems through technology, building reliable software, and continuously improving my knowledge in software development, systems analysis, databases, networking, and modern technologies.
-
----
-
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="mailto:miltonmanjate97@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-miltonmanjate97%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://wa.me/258870440078">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B258%20870%20440%20078-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/MiltonManjate">
-    <img src="https://img.shields.io/badge/GitHub-Milton%20Manjate-181717?style=for-the-badge&logo=github" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/milton-manjate-775797332/">
-    <img src="https://img.shields.io/badge/LinkedIn-Milton%20Manjate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💻 About Me
-
-* 🎓 Degree in **Computer Systems and Networks**
-* 💻 Full Stack Web Development
-* 📱 Mobile Application Development
-* 🌐 REST API Development
-* 🗄️ Database Design and Management
-* 🖥️ IT Support and Troubleshooting
-* 🌍 Computer Networks and Infrastructure
-* 🔐 Networking and Security Fundamentals
-* 📊 Systems Analysis and Modeling
-* ⚡ Problem Solving
-* 🧩 Software Development and Maintenance
-* 📚 Continuous Learning
-
----
-
-# 🛠️ Tech Stack
-
-## 💻 Programming Languages
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-</p>
-
----
-
-## ⚙️ Backend & Frameworks
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" />
-
-</p>
-
----
-
-## 🎨 Frontend
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-
-</p>
-
----
-
-## 📱 Mobile Development
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-
-</p>
-
----
-
-## 🗄️ Databases
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-
-</p>
-
----
-
-## 🌐 Networking & Systems
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DHCP-0066CC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/VLAN-00599C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Firewall-FF6600?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IPTables-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
-<img src="https://img.shields.io/badge/Cacti-4B8BBE?style=for-the-badge" />
-
-</p>
-
----
-
-## 🛠️ Tools & DevOps
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
-<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-A selection of projects developed using different technologies.
-
-> SoftClinic project documentation: [README-en.md](./README-en.md)
-
-### 🐘 PHP
-[Project Name](LINK)
-
-### ⚙️ Laravel
-[Project Name](LINK)
-
-### 🐹 Go
-**SIGE — Sistema Integrado de Gestão Escolar** (API REST com Go + Gin + GORM + MySQL + JWT)
-
-- Backend: [api.go.sige.com](https://github.com/MiltonManjate/api.go.sige.com)
-- Frontend: [www.sige.com](https://github.com/MiltonManjate/www.sige.com)
-
-### 💻 C#
-[Project Name](LINK)
-
-### 🟢 Pascal / Pascalzim
-[Project Name](LINK)
-
-### 🟢 Vue.js
-**SIGE Frontend** (Vue 3 + TypeScript + Vite + Pinia + Bootstrap 5)
-
-- Frontend: [www.sige.com](https://github.com/MiltonManjate/www.sige.com)
-- Backend: [api.go.sige.com](https://github.com/MiltonManjate/api.go.sige.com)
-
-### 🔴 CodeIgniter
-[Project Name](LINK)
-
-# 📊 GitHub Statistics
+[![PHP](https://img.shields.io/badge/PHP-8.3%2B-777BB4?logo=php&logoColor=white)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-13-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](./composer.json)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/MiltonManjate/softclinic)
+[![GitHub stars](https://img.shields.io/github/stars/MiltonManjate/softclinic?style=social)](https://github.com/MiltonManjate/softclinic)
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MiltonManjate&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonManjate&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <b>English</b> ·
+  <a href="https://github.com/MiltonManjate/softclinic/issues">Issues</a> ·
+  <a href="https://github.com/MiltonManjate">Author</a>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## About SoftClinic 💡
 
-<p align="center">
+**SoftClinic** is a clinic management system developed by **Milton Manjate** (SoftSales Solutions).
 
-<img src="https://streak-stats.demolab.com?user=MiltonManjate&theme=tokyonight&hide_border=true" />
+It helps clinics and laboratories run day-to-day operations in one place:
 
-</p>
+- Patient registration and clinical records
+- Doctor scheduling and appointments
+- Billing, OPD sales and packages
+- Laboratory workflows and printable PDF reports
+- Staff, roles and hospital settings
+
+Ideal for:
+
+- Outpatient clinics (OPD)
+- Diagnostic / pathology laboratories
+- Small to medium healthcare facilities
 
 ---
 
-# 📈 My Development Journey
+## Screenshots 🖥️
 
-```text
-PHP / Laravel       ████████████████████  Advanced
-JavaScript / Vue.js ██████████████████░░  Advanced
-Flutter / Dart      ███████████████░░░░░  Intermediate+
-MySQL / PostgreSQL  █████████████████░░░  Advanced
-Computer Networks   █████████████████░░░  Advanced
-Linux               ██████████████░░░░░░  Intermediate+
-Go                  ████████░░░░░░░░░░░░  Learning
-Docker              ██████████░░░░░░░░░░  Intermediate
+> Add screenshots under `docs/` when ready (for example `docs/dashboard.png`).
+
+| Module | Preview |
+| ------ | ------- |
+| Dashboard | `docs/dashboard.png` |
+| Patients | `docs/patients.png` |
+| Lab Reports | `docs/reports.png` |
+
+---
+
+## Features 🎯
+
+### Clinic Operations
+
+- [x] **Dashboard** with an overview of clinic activity
+- [x] **Patient** registration and management
+- [x] **Doctor** profiles and referral tracking
+- [x] **Appointments** scheduling and updates
+- [x] **Departments** and clinical **services** catalog
+- [x] **Employees** / staff management
+- [x] **Hospital / clinic settings**, tax and configuration
+- [x] Database **backup** from the settings area
+
+### Billing & Sales
+
+- [x] **Invoices** creation, search, duplicate and returns
+- [x] **OPD sales** workflow
+- [x] **Package** definition, package tests and package sales
+- [x] Accounting views for **service**, **OPD** and **package** reports
+
+### Laboratory
+
+- [x] Lab **tests** catalog with status control
+- [x] **Reference** values and microbiology **antibiotics**
+- [x] Specialized modules: **Haematology**, **Immunology**, **Microbiology**, **Biochemistry**, **Examination**, **Stain**
+- [x] **Results** entry / edit and report generation
+- [x] Printable **lab reports** (DomPDF)
+
+### Access Control
+
+- [x] Authentication (login / logout)
+- [x] **Users**, **roles** and permissions
+- [x] Password change
+- [x] UI language switch (**English** / **Portuguese**)
+
+---
+
+## Tech Stack 🛠️
+
+| Layer | Technology |
+| ----- | ---------- |
+| Backend | PHP **8.3+**, **Laravel 13** |
+| Frontend | Blade views, Bootstrap, jQuery, Vue 2 (legacy Mix assets) |
+| Database | **SQLite** (default) or **MySQL** / PostgreSQL / SQL Server |
+| PDF | **barryvdh/laravel-dompdf** |
+| Auth | Laravel session authentication |
+| Tooling | Composer, NPM / Laravel Mix, PHPUnit |
+
+---
+
+## System Requirements 📦
+
+| Item | Minimum | Recommended |
+| ---- | ------- | ----------- |
+| PHP | 8.3 | 8.3+ with extensions (`pdo`, `mbstring`, `openssl`, `tokenizer`, `xml`, `ctype`, `json`, `bcmath`, `fileinfo`) |
+| Composer | 2.x | Latest 2.x |
+| Database | SQLite | MySQL 8+ (production) |
+| Node.js | 16+ (optional, for asset rebuild) | 18+ |
+| RAM | 2 GB | 4 GB+ |
+
+Supported platforms: **Windows 10+**, **macOS**, and mainstream **Linux** distributions.
+
+---
+
+## Quick Start 🚀
+
+### ① Clone the project
+
+```shell
+git clone https://github.com/MiltonManjate/softclinic.git
+cd softclinic
 ```
 
-> The levels above represent my current self-assessment and are intended to show areas of experience and ongoing development.
+### ② Install PHP dependencies
+
+```shell
+composer install
+```
+
+### ③ Configure the environment
+
+```shell
+cp .env.example .env
+php artisan key:generate
+```
+
+By default SoftClinic uses **SQLite**. To use MySQL, edit `.env`:
+
+```env
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=SoftClinic
+DB_USERNAME=root
+DB_PASSWORD=
+```
+
+For SQLite, ensure the database file exists:
+
+```shell
+# Windows (PowerShell)
+New-Item -ItemType File -Force database/database.sqlite
+
+# macOS / Linux
+touch database/database.sqlite
+```
+
+### ④ Run migrations (and seeders if available)
+
+```shell
+php artisan migrate
+# php artisan db:seed
+```
+
+### ⑤ Start the development server
+
+```shell
+php artisan serve
+```
+
+Open your browser at: [http://127.0.0.1:8000](http://127.0.0.1:8000)
+
+### Demo login
+
+| Field | Value |
+| ----- | ----- |
+| Username | `admin` |
+| Password | `miltonmanjate` |
+
+> Change this password after the first login in production environments.
 
 ---
 
-# 📚 Currently Learning
+## Installation & Deployment 📥
 
-* 🐹 Golang
-* 🏗️ Software Architecture
-* 🧩 Clean Architecture
-* 🔗 Microservices
-* ☁️ Cloud Computing
-* 🐳 DevOps & Docker
-* 🤖 Artificial Intelligence Integration
+### Manual deployment
 
----
+1. Clone the repository
+2. Run `composer install`
+3. Copy `.env.example` to `.env` and generate the app key
+4. Configure the database connection
+5. Run `php artisan migrate`
+6. Start with `php artisan serve` (or point your web server to `public/`)
 
-# 💼 Areas of Interest
+### Optional frontend rebuild (Laravel Mix)
 
-* Full Stack Development
-* Mobile Development
-* Backend Development
-* REST API Development
-* Enterprise Systems
-* Database Systems
-* Computer Networks
-* DevOps
-* Artificial Intelligence
-* Open Source
-* Software Architecture
+```shell
+npm install
+npm run dev
+# or
+npm run production
+```
 
 ---
 
-# 🎯 Goals
+## Project Structure 📁
 
-I'm continuously working to improve my skills in software engineering and infrastructure while building solutions that solve real-world problems.
-
-My goal is to contribute to **innovative projects**, collaborate with talented developers, and grow as a **Software Engineer**.
+```text
+softclinic/
+├── app/
+│   ├── Http/Controllers/   # Clinic, lab, billing & auth controllers
+│   └── Models/             # Patients, doctors, invoices, tests, ...
+├── config/                 # Laravel configuration
+├── database/
+│   ├── migrations/         # Schema definitions
+│   └── seeders/            # Seed data
+├── public/                 # Web root (CSS, JS, images)
+├── resources/
+│   ├── views/              # Blade templates
+│   ├── lang/               # en / pt translations
+│   └── assets/             # Frontend sources
+├── routes/
+│   └── web.php             # Application routes
+├── storage/                # Logs, cache, generated files
+└── README.md               # SoftClinic documentation (this file)
+```
 
 ---
 
-## 📫 Contact
+## Main Modules 🗂️
 
-📧 **Email:** [miltonmanjate97@gmail.com](mailto:miltonmanjate97@gmail.com)
-
-📱 **WhatsApp:** [+258 87 044 0078](https://wa.me/258870440078)
-
-📍 **Location:** Maputo, Mozambique
+| Module | Description |
+| ------ | ----------- |
+| Dashboard | Home overview after login |
+| Patients | Patient CRUD |
+| Doctors | Doctor management & API helpers for schedules |
+| Appointments | Booking and updates |
+| Departments / Services | Organizational structure and billable services |
+| Employees | Staff records |
+| Roles / Users | Access control |
+| Invoices / OPD / Packages | Billing and sales |
+| Tests & Lab modules | Haematology, immunology, microbiology, biochemistry, stains, examinations |
+| Reports / Results | Lab result entry and printable reports |
+| Accounts | Service, OPD and package financial reports |
+| Hospital settings | Clinic profile, tax, config and backup |
 
 ---
 
-## 💡 Philosophy
+## Useful Commands 💻
 
-> *"Technology is most powerful when it solves real-world problems and improves people's lives."*
+```shell
+# Development server
+php artisan serve
+
+# Run migrations
+php artisan migrate
+
+# Clear caches
+php artisan config:clear
+php artisan cache:clear
+php artisan view:clear
+
+# Code style (Pint)
+./vendor/bin/pint
+
+# Tests
+php artisan test
+```
 
 ---
 
-⭐ **Feel free to explore my repositories and projects.**
+## Locale 🌐
 
-🤝 **I'm open to collaboration, interesting projects and new opportunities.**
+SoftClinic supports **English** and **Portuguese**. Switch language via:
+
+```text
+/locale/en
+/locale/pt
+```
+
+---
+
+## Roadmap 🗺️
+
+- [ ] Public demo screenshots in `docs/`
+- [ ] Docker Compose one-command setup
+- [ ] REST API documentation for integrations
+- [ ] Stronger role-permission UI and audit logs
+- [ ] Mobile-friendly responsive refinements
+
+---
+
+## Author 👨‍💻
+
+**Milton Reginaldo Manjate**  
+Software Developer | Full Stack | Systems & Network  
+Maputo, Mozambique
+
+- GitHub: [MiltonManjate](https://github.com/MiltonManjate)
+- LinkedIn: [milton-manjate](https://www.linkedin.com/in/milton-manjate-775797332/)
+- Email: [miltonmanjate97@gmail.com](mailto:miltonmanjate97@gmail.com)
+- WhatsApp: [+258 87 044 0078](https://wa.me/258870440078)
+
+Company: **SoftSales Solutions**
+
+---
+
+## License 📄
+
+This project is open-sourced under the **MIT** license.
+
+---
+
+## Feedback & Support 🤝
+
+Issues, ideas and pull requests are welcome.
+
+⭐ If SoftClinic helps your clinic or lab workflow, consider starring the repository.
